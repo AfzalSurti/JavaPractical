@@ -1,2 +1,5 @@
-Hello From The Server ,
-Connection is establised succesfull now send your request .
+hello from afzal
+how are you
+4
+ok its wroking 
+okkkk
